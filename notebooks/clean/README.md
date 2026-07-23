@@ -16,7 +16,9 @@ collected. Minimal cleaning was used, just making sure errors were coerced and a
 in the elevation, latitude, and longitude columns, so they were dropped. This was ultimately saved as `weather.csv`.
 
 ## Inputs
-What data these notebooks expect.
+* `clean-rides.ipynb`: This notebook expects 25 files, from years 2020-2026, q1 - q4. Note that as of 07/23/2026, q2, q3, and q4 were not used or downloaded.
+* `clean-stations.ipynb`: This notebook expects an url, already included in the notebook. Make sure url is available before executing code.
+* `clean-weather.ipynb`: This notebooks expects a raw datafile called `philly_weather.csv`, which is stored in the Google Drive, with a link located in the main `README.md`. 
 
 ## Outputs
 What files or datasets they create.
