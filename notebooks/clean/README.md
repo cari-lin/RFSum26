@@ -21,4 +21,4 @@ in the elevation, latitude, and longitude columns, so they were dropped. This wa
 * `clean-weather.ipynb`: This notebooks expects a raw datafile called `philly_weather.csv`, which is stored in the Google Drive, with a link located in the main `README.md`. 
 
 ## Outputs
-What files or datasets they create.
+These notebooks clean the raw data harvested from the internet and make it usable for eda, models, and predictions
