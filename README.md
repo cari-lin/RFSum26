@@ -2,7 +2,7 @@
 ## Graph-Based Demand Forecasting and Rebalancing Optimization in Urban Bike-Sharing Networks
 By: Carina Lindfield
 
-Advisor: Dr. Christopher Brown
+Advisor: Dr. Christopher Brown and Dr. John Villalpando
 
 ### Main Question: How can network modeling and predictive algorithms be used to forecast station-level demand and optimize bike redistribution in urban bike-sharing systems?
 
@@ -15,7 +15,9 @@ There is a miniature dataset stored directly in the ``data`` folder, which can b
 
 
 
-References: 
+#### References: 
 [1] Lin, L., Li, W., & Peeta, S. (2020). Predicting station-level bike-sharing demands using graph convolutional neural networks. arXiv preprint arXiv:2004.08723.
+
 [2] Mo, X., Liu, X., & Chan, W. K. (2021). Modeling and optimization in resource sharing systems: Application to bike-sharing with unequal demands. Algorithms, 14(2), 47.
+
 [3] Schuijbroek, J., Hampshire, R. C., & van Hoeve, W. J. (2017). Inventory rebalancing and vehicle routing in bike sharing systems. European Journal of Operational Research, 257(3), 992–1004.
